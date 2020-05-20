@@ -1,1 +1,8 @@
 # Forecasting_NBA_Careers_of_NCAA_Athletes
+
+## Abstract
+The goal of our project was to predict how successful NCAA athletes would be in a more professional and competitive league and analyze the performance variation of NCAA athletes between two leagues. We were able to predict with moderate accuracy how well the players will be after being drafted into the NBA in terms of efficiency and start percentile with supervised learning.
+
+## Introduction
+The National Basketball Association (NBA) is the largest men’s professional basketball league in the world. The NBA draws the bulk of its new blood from the league National Collegiate Athletic Association (NCAA) through the NBA draft. Every year, over a thousand college players are eligible for the draft, however, only 60 of them will be entering the NBA. Additionally, the order of being drafted determines their started salary and contract type. According to Spotrac.com, the first pick started with a salary of $6.74 million while the last pick of the first round made $1.34 million for the 2018 NBA draft. Furthermore, being selected in the first round begin their career with a four-year guaranteed contract while second-round picks do not have guaranteed contracts. The draft is paramount for both the league, and the players.
+Every team wants to get the best potential player and the NCAA games statistics is one of the most important metrics they rely on to make the draft decision. We have proposed some questions to help us to understand the player’s performance variation between two leagues and the relationship between NCAA performance and performance in the NBA.
